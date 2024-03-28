@@ -1,0 +1,4 @@
+github.com/thypon/webcat v0.0.0-20150216120518-aa5340bcf116 h1:T8AeRomreSOIS94tbADgDmTQKpIPIg+XcrGpTXZ/Pdo=
+github.com/thypon/webcat v0.0.0-20150216120518-aa5340bcf116/go.mod h1:yVV+SCg9aO6eiBSiTf/ONhhVz8A5o77xR35+nvEokV0=
+golang.org/x/net v0.22.0 h1:9sGLhx7iRIHEiX0oAJ3MRZMUCElJgy7Br1nO+AMN3Tc=
+golang.org/x/net v0.22.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
